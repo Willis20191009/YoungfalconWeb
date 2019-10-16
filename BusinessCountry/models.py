@@ -1,4 +1,5 @@
 from django.db import models
+from Products.models import CategoryLevel1
 
 # Create your models here.
 CONTINENTS=(

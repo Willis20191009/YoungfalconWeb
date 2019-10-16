@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class BusinesscountryConfig(AppConfig):
+class AppConfig(AppConfig):
     name = 'BusinessCountry'
